@@ -1,0 +1,2 @@
+# Concept-Adaptive-Spider-Web-Noise-for-Image-Video-Integrity
+This document summarizes a conceptual framework for an "Adaptive Spider Web Noise" system, designed to be embedded by a camera into images and videos. The primary goal is to protect content from unauthorized manipulation or misuse by AI generative models (e.g., deepfakes, AI-driven editing) while remaining imperceptible to human viewers.
